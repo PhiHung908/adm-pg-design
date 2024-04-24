@@ -1,0 +1,23 @@
+{
+    "name": "yii-utils/adm-pg-design",
+    "description": "Widget navigation Bar/Menu dùng cho Yii hỗ cho việc thiết kế giao diện",
+	"keywords": ["yii","yii-nav","yii-navmenu","yii-navbar","yii-utils","yii-hwg"],
+	"homepage": "https://github.com/PhiHung908",
+    "support": {
+        "issues": "https://github.com/PhiHung908/adm-pg-design/issues",
+        "source": "https://github.com/PhiHung908/adm-pg-design.git"
+    },
+	"type": "yii2-extension",
+	"license": "MIT",
+	"authors": [
+        {
+            "name": "Phi Hùng",
+            "email": "vmkeyb908@gmail.com"
+        }
+    ],
+	"minimum-stability": "dev",
+    "require": {
+        "php": ">=8.2"
+		"yii-utils/hwg-nav" : "@dev"
+    }
+}
